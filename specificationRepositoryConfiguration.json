@@ -7,6 +7,10 @@
       "integrationRepository": "AzureSDKAutomation/azure-sdk-for-go",
       "mainRepository": "Azure/azure-sdk-for-go"
     },
+    "azure-sdk-for-trenton": {
+      "integrationRepository": "tiramisuq/azure-sdk-for-trenton",
+      "mainRepository": "tiramisuq/azure-sdk-for-trenton"
+    },
     "azure-sdk-for-java": {
       "integrationRepository": "AzureSDKAutomation/azure-sdk-for-java",
       "mainRepository": "Azure/azure-sdk-for-java"
