@@ -25,7 +25,7 @@
     },
     "azure-cli-extensions": {
       "integrationRepository": "tiramisuq/azure-cli-extensions",
-      "mainRepository": "tiramisuq/azure-cli-extensions"
+      "mainRepository": "openapi-env-test/azure-cli-extensions"
     },
     "azure-sdk-for-ruby": {
       "mainBranch": "latest",
