@@ -24,8 +24,8 @@
       "mainRepository": "Azure/azure-sdk-for-python"
     },
     "azure-cli-extensions": {
-      "integrationRepository": "AzureSDKAutomation/azure-cli-extensions",
-      "mainRepository": "Azure/azure-cli-extensions"
+      "integrationRepository": "tiramisuq/azure-cli-extensions",
+      "mainRepository": "tiramisuq/azure-cli-extensions"
     },
     "azure-sdk-for-ruby": {
       "mainBranch": "latest",
