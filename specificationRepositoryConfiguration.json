@@ -24,7 +24,7 @@
       "mainRepository": "Azure/azure-sdk-for-python"
     },
     "azure-cli-extensions": {
-      "integrationRepository": "tiramisuq/azure-cli-extensions",
+      "integrationRepository": "openapi-env-test/azure-cli-extensions",
       "mainRepository": "openapi-env-test/azure-cli-extensions"
     },
     "azure-sdk-for-ruby": {
