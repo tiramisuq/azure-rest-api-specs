@@ -23,7 +23,6 @@
     },
     "azure-sdk-for-ruby": {
       "mainBranch": "latest",
-
       "mainRepository": "openapi-env-test/azure-sdk-for-ruby"
     },
     "azure-sdk-for-node": "openapi-env-test/azure-sdk-for-node",
