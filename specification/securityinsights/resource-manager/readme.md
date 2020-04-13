@@ -131,9 +131,8 @@ uncomment the  `exclude-file` section below and add the file paths.
 
 ``` yaml $(trenton)
 trenton:
-  extensions: securityinsights.fake
-  namespace: azure.mgmt.securityinsights.fake
-  package-name: azure-mgmt-securityinsights.fake
+  extensions: securityinsights
+  namespace: azure.mgmt.securityinsights
+  package-name: azure-mgmt-securityinsights
 clear-output-folder: true
-``` 
-
+```
