@@ -71,6 +71,7 @@ swagger-to-sdk:
   - repo: azure-sdk-for-js
   - repo: azure-sdk-for-node
   - repo: azure-sdk-for-trenton
+  - repo: azure-cli-extensions
 ```
 
 ## C#
@@ -129,11 +130,20 @@ uncomment the  `exclude-file` section below and add the file paths.
 #  - $(this-folder)/Microsoft.Example/stable/2010-01-01/somefile.json
 ```
 
+## trenton
+
+These settings apply only when `--trenton` is specified on the command line.
+
 ``` yaml $(trenton)
 trenton:
-  extensions: securityinsights.2
-  namespace: azure.mgmt.securityinsights.2
-  package-name: azure-mgmt-securityinsights.2
-clear-output-folder: true
-``` 
+
+  cli_name: SecurityInsight
+  azure_arm: true
+  license_header: MICROSOFT_MIT_NO_VERSION
+  payload_flattening_threshold: 2
+  namespace: azure.mgmt.SecurityInsight.2
+  package_name: azure-mgmt-SecurityInsight.2
+  clear_output_folder: false
+```
+
 
