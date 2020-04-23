@@ -139,7 +139,7 @@ trenton:
 
   cli_name: SecurityInsight
   azure_arm: true
-  license_header: MICROSOFT_MIT_NO_VERSION
+  license_header: MICROSOFT_MIT_NO_VERSION_header
   payload_flattening_threshold: 2
   namespace: azure.mgmt.SecurityInsight.2
   package_name: azure-mgmt-SecurityInsight.2
