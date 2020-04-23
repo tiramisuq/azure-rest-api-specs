@@ -175,7 +175,7 @@ trenton:
   azure_arm: true
   license_header: MICROSOFT_MIT_NO_VERSION
   payload_flattening_threshold: 2
-  namespace: azure.mgmt.SecurityInsight.1
-  package_name: azure-mgmt-SecurityInsight.1
+  namespace: azure.mgmt.netapp
+  package_name: azure-mgmt-netapp
   clear_output_folder: false
 ```
