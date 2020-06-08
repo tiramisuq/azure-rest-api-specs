@@ -56,9 +56,9 @@
             "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/contoso/providers/Microsoft.Media/mediaservices/contosomedia/assets/ClimbingMountRainer",
             "type": "Microsoft.Media/mediaservices/assets",
             "properties": {
-              "assetId": "258878ef-fe05-4518-988f-052e86dc19f6",
-              "created": "2018-08-08T18:29:24.3948982Z",
-              "lastModified": "2018-08-08T21:29:24.3948982Z",
+              "assetId": "b17382d1-d1d5-4b40-b82e-592102161d25",
+              "created": "2020-02-07T22:04:41.973254Z",
+              "lastModified": "2020-02-08T01:04:41.973254Z",
               "alternateId": "altClimbingMountRainer",
               "description": "descClimbingMountRainer",
               "container": "testasset0",

@@ -11,26 +11,26 @@
       "body": {
         "contentKeys": [
           {
-            "id": "9259eb06-eeee-4f77-987f-48f4ea5c649f",
+            "id": "47431113-379c-49cc-ac59-9d5204d4ecbd",
             "type": "EnvelopeEncryption",
             "labelReferenceInStreamingPolicy": "aesDefaultKey",
-            "value": "QpiqeQROdN5xamnfUF2Wdw==",
+            "value": "dF41oYd7A27e36E/xGQSDA==",
             "policyName": "PolicyWithMultipleOptions",
             "tracks": []
           },
           {
-            "id": "06bfeff1-2bb6-4f58-af27-a2767f058bca",
+            "id": "545daa70-42a9-4012-9186-77cc492f1e3a",
             "type": "CommonEncryptionCenc",
             "labelReferenceInStreamingPolicy": "cencDefaultKey",
-            "value": "ZjgWhNnqnqcov/h+wrYusw==",
+            "value": "qIGOuQTDLUMXTpFEnDm2+w==",
             "policyName": "PolicyWithMultipleOptions",
             "tracks": []
           },
           {
-            "id": "799e78a0-ed6f-4179-9222-ed4ec4223cec",
+            "id": "a68935f7-93f6-46dd-8053-6d23561cc2a6",
             "type": "CommonEncryptionCbcs",
             "labelReferenceInStreamingPolicy": "cbcsDefaultKey",
-            "value": "FjZ3n3yRcVxRFftdYFbe9g==",
+            "value": "7IlWF9JIMVuylIMo040GjQ==",
             "policyName": "PolicyWithMultipleOptions",
             "tracks": []
           }
