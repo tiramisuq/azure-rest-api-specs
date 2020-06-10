@@ -3,7 +3,7 @@
   "info": {
     "title": "MySQLManagementClient",
     "description": "The Microsoft Azure management API provides create, read, update, and delete functionality for Azure MySQL resources including servers, databases, firewall rules, VNET rules, log files and configurations with new business model.",
-    "version": "2017-12-01"
+    "version": "2017-12-010"
   },
   "host": "management.azure.com",
   "schemes": [
@@ -318,12 +318,6 @@
           },
           "202": {
             "description": "Accepted"
-          },
-          "default": {
-            "description": "Error response describing why the operation failed.",
-            "schema": {
-              "$ref": "#/definitions/CloudError"
-            }
           }
         },
         "x-ms-long-running-operation": true
@@ -1375,9 +1369,6 @@
             "schema": {
               "$ref": "#/definitions/ServerSecurityAlertPolicy"
             }
-          },
-          "default": {
-            "description": "Error response describing why the operation of getting security alert policies failed."
           }
         },
         "x-ms-examples": {
@@ -2704,8 +2695,7 @@
       "in": "path",
       "required": true,
       "type": "string",
-      "description": "The name of the server.",
-      "x-ms-parameter-location": "method"
+      "description": "The name of the server."
     },
     "FirewallRuleNameParameter": {
       "name": "firewallRuleName",
