@@ -1349,7 +1349,6 @@
               "Default"
             ],
             "x-ms-enum": {
-              "name": "SecurityAlertPolicyName",
               "modelAsString": true
             }
           },
